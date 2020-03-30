@@ -4,6 +4,7 @@ cd aspnetcore-docker
 dotnet run
 
 ## Create the Dockerfile
+Create a Dockerfile for the project
 
 ## Build the Docker image
 docker build -t aspnetcore-docker:1.0 .
